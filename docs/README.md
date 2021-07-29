@@ -14,12 +14,16 @@
 
 <!-- BEGIN TOC -->
 
-- components
-- handlers
-- init
-  - [index.js](#clientsrcinitindexjs)
-- listeners
-- logic
+- public
+- src
+  - components
+  - handlers
+  - init
+    - [index.js](#clientsrcinitindexjs)
+  - listeners
+  - logic
+- styles
+- [data.js](#clientdatajs)
 
 ---
 
@@ -27,15 +31,21 @@
 
 <!-- BEGIN DOCS -->
 
-# /components
+# /public
 
 ---
 
-# /handlers
+# /src
+
+## /components
 
 ---
 
-# /init
+## /handlers
+
+---
+
+## /init
 
 <details><summary><a href="../../client/src/init/index.js" id="clientsrcinitindexjs">../client/src/init/index.js</a></summary>
 
@@ -43,12 +53,22 @@
 
 ---
 
-# /listeners
+## /listeners
 
 ---
 
-# /logic
+## /logic
 
 ---
+
+---
+
+# /styles
+
+---
+
+<details><summary><a href="../../client/data.js" id="clientdatajs">../client/data.js</a></summary>
+
+</details>
 
 <!-- END DOCS -->
