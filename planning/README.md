@@ -25,3 +25,14 @@ Project is created with:
 ## Status
 
 Project is: in progress...
+
+## Communication plan
+
+| Day       | Time: |  Messenger
+| --------- | :----------: | :---------: |
+| Monday    |    |  slack|
+| Tuesday    |  09:30  |  zoom  |  
+| Wednesday    |    |    |    same |
+| Thursday    |    |    | same    |
+| Friday    |    |    |same     |
+| Saturday   |    |    |same     |
