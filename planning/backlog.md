@@ -1,4 +1,4 @@
-# Backlog 
+# Backlog
 
 ## Must-Haves
 
@@ -8,7 +8,6 @@
 - [ ] As a user I want to have a button so that I could remove any item from the list.
 - [ ] As a user I want to be able to edit the description of each item in their list.
 - [ ] As a user I want to have checkboxes, so that I could mark an item as "done" or "not done".
-- [ ] As a user I want to be able to register myself, to log in and log out, so that I can keep the privacy of my list.
 
 ## Should-Haves
 
@@ -29,3 +28,4 @@
 - [ ] As a user I want to have a user-friendly pretty design, so that I could use the app with pleasure.
 - [ ] As a user I want to have calendar so that I could plan for future and see what was planned in the past.
 - [ ] As a user I want to have print button so that I could print my list on paper and take it with me.
+- [ ] As a user I want to be able to register myself, to log in and log out, so that I can keep the privacy of my list.
