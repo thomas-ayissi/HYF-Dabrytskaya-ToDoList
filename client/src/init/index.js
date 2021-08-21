@@ -13,7 +13,7 @@ todoList.addEventListener("click", deleteTodo);
 filterOption.addEventListener("click", filterTodo);
 
 
-//functions
+// functions
 function addTodo(e) {
     //Prevent natural behaviour
     e.preventDefault();
@@ -54,6 +54,7 @@ function deleteTodo(e) {
         todo.classList.add("fall");
       //at the end
         removeLocalTodos(todo);
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
         todo.addEventListener("transitionend", e => {
         todo.remove();
         });
