@@ -1,1 +1,0 @@
-![wireframe](wireframe.svg.png)
